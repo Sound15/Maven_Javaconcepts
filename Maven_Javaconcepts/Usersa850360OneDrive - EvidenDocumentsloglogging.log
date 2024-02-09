@@ -1,0 +1,9 @@
+2024-01-29 02:42:21 INFO  PropertyFileConfigurator:12 - This is an info
+  2024-01-29 02:42:21 WARN  PropertyFileConfigurator:13 - This is warning
+  2024-01-29 02:42:21 ERROR PropertyFileConfigurator:14 - This is an error
+  2024-01-29 02:42:21 FATAL PropertyFileConfigurator:15 - This is fatal message
+  2024-01-29 02:42:57 INFO  PropertyFileConfigurator:12 - This is an info
+  2024-01-29 02:42:57 WARN  PropertyFileConfigurator:13 - This is warning
+  2024-01-29 02:42:57 ERROR PropertyFileConfigurator:14 - This is an error
+  2024-01-29 02:42:57 FATAL PropertyFileConfigurator:15 - This is fatal message
+  
